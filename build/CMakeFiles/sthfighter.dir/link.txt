@@ -1,0 +1,3 @@
+C:\bin\cmake.exe -E rm -f CMakeFiles\sthfighter.dir/objects.a
+D:\winlibs-x86_64-posix-seh-gcc-14.2.0-mingw-w64msvcrt-12.0.0-r3\mingw64\bin\ar.exe qc CMakeFiles\sthfighter.dir/objects.a @CMakeFiles\sthfighter.dir\objects1.rsp
+D:\winlibs-x86_64-posix-seh-gcc-14.2.0-mingw-w64msvcrt-12.0.0-r3\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\sthfighter.dir/objects.a -Wl,--no-whole-archive -o sthfighter.exe -Wl,--out-implib,libsthfighter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sthfighter.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/dug26/OneDrive/Desktop/game/sthfighter/build/CMakeFiles/sthfighter.dir
+C:/Users/dug26/OneDrive/Desktop/game/sthfighter/build/CMakeFiles/edit_cache.dir
+C:/Users/dug26/OneDrive/Desktop/game/sthfighter/build/CMakeFiles/rebuild_cache.dir
